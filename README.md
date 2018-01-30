@@ -1,2 +1,2 @@
-# Homework1
-Excel Charts and Graphs for Kickstarter Data
+# kickstarter-data
+Visual analysis of kickstarter data using Excel charts and graphs
