@@ -36,8 +36,8 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 * Create a new sheet with 8 columns: `Goal`, `Number Successful`, `Number Failed`, `Number Canceled`, `Total Projects`, `Percentage Successful`, `Percentage Failed`, and `Percentage Canceled`
 * In the `goal` column, create twelve rows with the following headers...
   * Less Than 1000
-  * 1000 to 4999
-  * 5000 to 9999
+  * 1000 to 4999
+  * 5000 to 9999
   * 10000 to 14999
   * 15000 to 19999
   * 20000 to 24999
