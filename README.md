@@ -35,18 +35,18 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 ## Bonus
 * Create a new sheet with 8 columns: `Goal`, `Number Successful`, `Number Failed`, `Number Canceled`, `Total Projects`, `Percentage Successful`, `Percentage Failed`, and `Percentage Canceled`
 * In the `goal` column, create twelve rows with the following headers...
-    * Less Than 1000
-    * 1000 to 4999
-    * 5000 to 9999
-    * 10000 to 14999
-    * 15000 to 19999
-    * 20000 to 24999
-    * 25000 to 29999
-    * 30000 to 34999
-    * 35000 to 39999
-    * 40000 to 44999
-    * 45000 to 49999
-    * Greater than or equal to 50000
+  * Less Than 1000
+  * 1000 to 4999
+  * 5000 to 9999
+  * 10000 to 14999
+  * 15000 to 19999
+  * 20000 to 24999
+  * 25000 to 29999
+  * 30000 to 34999
+  * 35000 to 39999
+  * 40000 to 44999
+  * 45000 to 49999
+  * Greater than or equal to 50000
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within those ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 * Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematic formulae, find the percentage of projects which were successful, failed, or were canceled per goal range.
 * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
