@@ -26,9 +26,9 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 * Create a pivot chart line graph that visualizes this new table.
 
 * Create a report in Microsoft Word and answer the following questions...
-1. What are three conclusions we can make about Kickstarter campaigns given the provided data?
-2. What are some of the limitations of this dataset?
-3. What are some other possible tables/graphs that we could create?
+ * What are three conclusions we can make about Kickstarter campaigns given the provided data?
+ * What are some of the limitations of this dataset?
+ * What are some other possible tables/graphs that we could create?
  
  
 ## Bonus
